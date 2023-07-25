@@ -1226,10 +1226,4 @@ function EmptyBoard() {
 
 export default EmptyBoard;
 
-//!TODO
-//castling
-//draw
-//stalemate
-//promote(pawn to end of board)
-//drag and drop in androids
-//databse??
+
