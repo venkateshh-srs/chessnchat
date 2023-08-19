@@ -7,7 +7,7 @@ Welcome to **chessNchat**, a real-time chess game with integrated chat functiona
 ## Features
 
 - Real-time chess gameplay.
-- Chat functionality for communicating with opponents.
+- Chat functionality for communicating with room members.
 - Users can create and share unique room links.
 - Spectator mode for other users in the room.
 - Players can choose their color (black or white) before starting a match.
