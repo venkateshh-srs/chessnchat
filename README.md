@@ -1,5 +1,3 @@
-Absolutely, here's the formatted README based on the information you provided:
-
 ---
 
 # chessNchat
