@@ -11,6 +11,7 @@ Welcome to **chessNchat**, a real-time chess game with integrated chat functiona
 - Users can create and share unique room links.
 - Spectator mode for other users in the room.
 - Players can choose their color (black or white) before starting a match.
+- By toggling the eye icon you can see people who are online and who are typing.
 
 ## Installation
 
@@ -73,5 +74,5 @@ To get started, follow these steps:
    After successful authentication, you'll be directed to the app's homepage. You can either join an existing room using a link (URL) or generate a new link and join that room. For testing purposes, open the same URL in multiple tabs to simulate multiple users.Actual app is served from server as dist file and authentication pages are also served from server as .ejs files 
    
 ---
-![Chess Board](images/board.png)
+![Chess Board](images/chessNchat.png)
 
