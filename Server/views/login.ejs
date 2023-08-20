@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" />
+    <title>Nodejs</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      .main {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <div>
+        <h1>Login</h1>
+        <br />
+        <form action="/users/login" method="POST">
+          <label for="name">Username</label>
+          <input type="text" id="name" name="name" />
+
+          <br />
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" />
+          <% if (errorMsg) { %>
+          <div style="color: rgb(255, 53, 53)"><%=errorMsg%></div>
+          <% } %>
+          <br />
+          <button class="btn">submit</button>
+        </form>
+        <br />
+        <div style="font-size: 13px">Don't have an account?</div>
+        <a href="./register">Register</a>
+      </div>
+    </div>
+  </body>
+</html>
