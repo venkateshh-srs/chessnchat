@@ -4,6 +4,7 @@
 
 Welcome to **chessNchat**, a real-time chess game with integrated chat functionality. This project utilizes websockets through the Socket.IO library, enabling users to engage in live chess matches and communicate with room members chat.
 
+
 ## Features
 
 - Real-time chess gameplay.
@@ -12,6 +13,8 @@ Welcome to **chessNchat**, a real-time chess game with integrated chat functiona
 - Players can choose their color (black or white) before starting a match.
 - Spectator mode for other users in the room.
 - By toggling the eye icon you can see people who are online and who are typing.
+
+
 
 ## Installation
 
