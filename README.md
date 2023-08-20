@@ -2,7 +2,7 @@
 
 # chessNchat
 
-Welcome to **chessNchat**, a real-time chess game with integrated chat functionality. This project utilizes websockets through the Socket.IO library, enabling users to engage in live chess matches and communicate with opponents via chat.
+Welcome to **chessNchat**, a real-time chess game with integrated chat functionality. This project utilizes websockets through the Socket.IO library, enabling users to engage in live chess matches and communicate with room members chat.
 
 ## Features
 
