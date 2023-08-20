@@ -74,5 +74,10 @@ To get started, follow these steps:
    After successful authentication, you'll be directed to the app's homepage. You can either join an existing room using a link (URL) or generate a new link and join that room. For testing purposes, open the same URL in multiple tabs to simulate multiple users.Actual app is served from server as dist file and authentication pages are also served from server as .ejs files 
    
 ---
-![Chess Board](images/chessNchat.png)
+![Register](./App/images/register.png)
+![Login](./App/images/login.png)
+![Homepage](./App/images/homepage.png)
+![Chess Board](./App/images/chessNchat.png)
+
+
 
