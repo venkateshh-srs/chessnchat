@@ -81,6 +81,8 @@ To get started, follow these steps:
 ![Login](./App/images/login.png)
 ![Homepage](./App/images/homepage.png)
 ![Chess Board](./App/images/chessNchat.png)
+![Chess Board](./App/images/img.png)
+![Chess Board](./App/images/chat.png)
 
 
 
